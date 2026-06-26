@@ -1,22 +1,30 @@
-# PMW x TechRealm Internship — Amna Hafeez
+# PMW-day1 — Amna Hafeez
 
-**Role:** Web & Platform Engineering Intern  
-**Cohort:** 2026  
-**Organization:** PreserveMy.World x TechRealm
+## About PreserveMy.World
+PreserveMy.World is a nonprofit organization using AI for cultural heritage 
+preservation, documenting and reconstructing historical sites in 3D.
 
-## About Me
-Second-year Software Engineering student at FAST-NUCES Islamabad, 
-passionate about web development and building meaningful tech.
+## Intern Information
+- **Intern Name:** Amna Hafeez
+- **Track:** Core Tech — Platform & Web Engineering
+- **Cohort:** TechRealm x PreserveMy.World 2026
+- **GitHub:** https://github.com/Anfey-SE
+- **LinkedIn:** https://linkedin.com/in/amna-hafeez-se
+- **Portfolio:** https://amna-hafeez-portfolio.vercel.app
 
-- GitHub: https://github.com/Anfey-SE
-- LinkedIn: https://linkedin.com/in/amna-hafeez-se
-- Portfolio: https://amna-hafeez-portfolio.vercel.app
+## Tools
+- Python
+- VS Code
+- Gemini CLI
+- GitHub + gh CLI
+- Jupyter Notebooks
 
-## Week 1 — Foundations & Setup
-
-### Day 1 (Ice Breaker)
-- Built and deployed personal portfolio website using React + Vite and Tailwind CSS
-- Created this repo as my main internship workspace
+## Weekly Goals
+### Week 1 — Foundations & Setup
+- [x] Environment setup (Python, Git, VS Code, Gemini CLI)
+- [ ] Research 3D reconstruction methods
+- [ ] Run a Python experiment
+- [ ] Open first PR
 
 ## Projects
 *To be updated as the internship progresses.*
